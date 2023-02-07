@@ -1,0 +1,12 @@
+{
+  "name": "Artemis-mini",
+  "version": "0.0.1",
+  "description": "Mini ibb-social para validar comunicação em tempo real",
+  "main": "index.js",
+  "author": "Wendel Silv@",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
